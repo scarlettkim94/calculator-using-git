@@ -50,11 +50,11 @@ public class Main {
     }
 
     private static void divide(int a, int b) {
-
+        System.out.println(a + " / " + b + " = " + (a / b));
     }
 
     private static void multiply(int a, int b) {
-        System.out.println(a + " x " + b + " = " + (a x b));
+        System.out.println(a + " x " + b + " = " + (a * b));
     }
 
     private static void minus(int a, int b) {
