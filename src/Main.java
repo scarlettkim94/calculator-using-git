@@ -58,7 +58,7 @@ public class Main {
     }
 
     private static void minus(int a, int b) {
-
+        System.out.println(a + " - " + b + " = " + (a - b));
     }
 
     private static void plus(int a, int b) {
