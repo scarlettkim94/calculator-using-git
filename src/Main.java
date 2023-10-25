@@ -54,7 +54,7 @@ public class Main {
     }
 
     private static void multiply(int a, int b) {
-
+        System.out.println(a + " x " + b + " = " + (a x b));
     }
 
     private static void minus(int a, int b) {
